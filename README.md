@@ -20,7 +20,7 @@
    <img align="center" alt="Firebase" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">&nbsp;
    <img align="center" alt="vscode" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">&nbsp;
    <img align="center" alt="github" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-    <img align="center" alt="github" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/2809/2809425.png">
+    <img align="center" alt="terminal-linux" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/2809/2809425.png">
 </div>
   
  #### Sistema Operacionais
