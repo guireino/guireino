@@ -2,6 +2,7 @@
 
 - 🌱 Eu sou estudante Mobile em flutter e android studio em java e também Unity 3d em c#
 - 👨 Tenho conhecimento nas linguagens de programação java para android dart em flutter, e c# em Unity 3d
+- 💬 Atualmente estou estudando flutter e melhorando meu github
 - 😄 Pronouns: ele <!-- - 📨 Contate-me no email: guiabucarma@gmail.com ou guiabucarma@hotmail.com -->
 
 <div>
