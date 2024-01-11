@@ -24,9 +24,9 @@
    <img align="center" alt="terminal-linux" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/2809/2809425.png">
    <img align="center" alt="docker" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
    <img align="center" alt="kubernetes" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
-
+  <html>
         <div class="color-box" style="background-color: #FF850A"></div>
-      
+  </html>    
 
 
 </div>
