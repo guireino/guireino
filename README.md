@@ -23,7 +23,7 @@
    <img align="center" alt="github" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
    <img align="center" alt="terminal-linux" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/2809/2809425.png">
    <!-- <img align="center" alt="docker" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> -->
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" <i class="devicon-docker-plain-wordmark"></i>>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" ><i class="devicon-docker-plain-wordmark"></i>
    
 </div>
   
