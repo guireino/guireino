@@ -12,20 +12,29 @@
 </div>
 
   
-#### Linguagem programação e Ferramentas e IDEs.
+#### Linguagem programação
 <div style="display: inline_block">
    <img align="center" alt="java" height="21" width="61" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">&nbsp;
-   <img align="center" alt="flutter" height="17" width="61" src="https://img.shields.io/badge/Flutter-02569B?style=for-thebadge&logo=flutter&logoColor=white">&nbsp;
    <img align="center" alt="Dart" height="21" width="61" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">&nbsp;
+</div>
+
+#### Ferramentas
+
+<div style="display: inline_block">
+   <img align="center" alt="flutter" height="17" width="61" src="https://img.shields.io/badge/Flutter-02569B?style=for-thebadge&logo=flutter&logoColor=white">&nbsp;
    <img align="center" alt="Unity-3d" height="21" width="61" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">&nbsp;
    <img align="center" alt="Firebase" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">&nbsp;
-   <img align="center" alt="vscode" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">&nbsp;
    <img align="center" alt="github" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
    <img align="center" alt="terminal-linux" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/2809/2809425.png">
    <img align="center" alt="docker" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
    <img align="center" alt="kubernetes" height="35" width="40" style="background-color:red" src="https://github.com/guireino/guireino/assets/11790204/bfae83d1-7339-43db-a59e-45ec75083db7" />
+  
+</div>
+
+#### IDEs.
+<div style="display: inline_block">
+  <img align="center" alt="vscode" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">&nbsp;
   <img align="center" alt="android-studio" height="35" width="40" src="https://github.com/guireino/guireino/assets/11790204/5308b0b4-6332-4f10-8812-7d7b976d274b">
-   
 </div>
   
  #### Sistema Operacionais
