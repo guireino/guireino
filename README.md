@@ -12,7 +12,7 @@
 </div>
 
   
-#### Linguagem programação e ferramentas
+#### Linguagem programação e Ferramentas e IDEs.
 <div style="display: inline_block">
    <img align="center" alt="java" height="21" width="61" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">&nbsp;
    <img align="center" alt="flutter" height="17" width="61" src="https://img.shields.io/badge/Flutter-02569B?style=for-thebadge&logo=flutter&logoColor=white">&nbsp;
