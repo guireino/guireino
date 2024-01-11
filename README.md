@@ -27,8 +27,6 @@
    <img align="center" alt="github" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
    <img align="center" alt="terminal-linux" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/2809/2809425.png">
    <img align="center" alt="docker" height="35" width="40" src="https://github.com/guireino/guireino/assets/11790204/16cb5c23-d810-44e3-88a5-6f93c270aa69" />
-  ![image](https://github.com/guireino/guireino/assets/11790204/cc63fa33-1412-452d-8b39-5b43bf141daf)
-
    <img align="center" alt="kubernetes" height="35" width="40" style="background-color:red" src="https://github.com/guireino/guireino/assets/11790204/bfae83d1-7339-43db-a59e-45ec75083db7" />
   
 </div>
