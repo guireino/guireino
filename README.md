@@ -31,7 +31,7 @@
   
 </div>
 
-#### IDEs.
+#### IDEs
 <div style="display: inline_block">
   <img align="center" alt="vscode" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">&nbsp;
   <img align="center" alt="android-studio" height="35" width="40" src="https://github.com/guireino/guireino/assets/11790204/5308b0b4-6332-4f10-8812-7d7b976d274b">
