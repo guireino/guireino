@@ -24,10 +24,7 @@
    <img align="center" alt="terminal-linux" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/2809/2809425.png">
    <img align="center" alt="docker" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
    <img align="center" alt="kubernetes" height="35" width="40" style="background-color:red" src="https://github.com/guireino/guireino/assets/11790204/bfae83d1-7339-43db-a59e-45ec75083db7" />
-  <img align="center" alt="terminal-linux" height="35" width="40" src="https://github.com/guireino/guireino/assets/11790204/5308b0b4-6332-4f10-8812-7d7b976d274b">
-
-   ![image](https://github.com/guireino/guireino/assets/11790204/5308b0b4-6332-4f10-8812-7d7b976d274b)
-
+  <img align="center" alt="android-studio" height="35" width="40" src="https://github.com/guireino/guireino/assets/11790204/5308b0b4-6332-4f10-8812-7d7b976d274b">
    
 </div>
   
