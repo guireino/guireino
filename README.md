@@ -26,7 +26,7 @@
    <img align="center" alt="Firebase" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">&nbsp;
    <img align="center" alt="github" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
    <img align="center" alt="terminal-linux" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/2809/2809425.png">
-   <img align="center" alt="docker" height="35" width="40" src="https://github.com/guireino/guireino/assets/11790204/fcb84e84-ad3e-42f5-8017-9f1ecadadb27" />
+   <img align="center" alt="docker" height="35" width="40" src="https://github.com/guireino/guireino/assets/11790204/6327bb09-ddd7-4c8b-b88b-8d532e71765c" />
    <img align="center" alt="kubernetes" height="35" width="40" style="background-color:red" src="https://github.com/guireino/guireino/assets/11790204/bfae83d1-7339-43db-a59e-45ec75083db7" />
 
 </div>
