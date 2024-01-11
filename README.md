@@ -16,7 +16,7 @@
 <div style="display: inline_block">
    <img align="center" alt="java" height="21" width="61" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">&nbsp;
    <img align="center" alt="Dart" height="21" width="61" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">&nbsp;
-  <img align="center" alt="C Sharp" height="21" width="61" src="https://github.com/guireino/guireino/assets/11790204/3fa2fbd9-1ec3-47a9-b901-a086ebdbd223">;
+  <img align="center" alt="C Sharp" height="35" width="40" src="https://github.com/guireino/guireino/assets/11790204/3fa2fbd9-1ec3-47a9-b901-a086ebdbd223">;
 </div>
 
 #### Ferramentas
