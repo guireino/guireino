@@ -25,7 +25,10 @@
    <img align="center" alt="docker" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
    <img align="center" alt="kubernetes" height="35" width="40" style="background-color:red" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
 
-   <style>
+<html>
+  <head>
+    <title>Title of the document</title>
+    <style>
       .image {
 
         background-color: #cccccc;
@@ -36,7 +39,11 @@
         position: relative;
       }
     </style>
-
+  </head>
+  <body>
+    <div class="image"></div>
+  </body>
+</html>
 </div>
   
  #### Sistema Operacionais
