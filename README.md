@@ -42,7 +42,6 @@
 <div align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=linux,windows,android&theme=dark" />
-    <img align="center" alt="android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
   </a>
 </div>
   
