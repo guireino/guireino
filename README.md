@@ -16,7 +16,7 @@
 <h2 align="left" style="color:white;" >Linguagem programação</h2>
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,java,cs&theme=light" />
+    <img src="https://skillicons.dev/icons?i=dart,java,cs&theme=dark" />
   </a>
 </div>
 
