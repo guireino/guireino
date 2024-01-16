@@ -38,11 +38,11 @@
   </a>
 </div>
 
- <h2 align="left" style="color:white;" >Sistema Operacionais</h2>
- <div style="display: inline_block">
-   <img align="center" alt="android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
-   <img align="center" alt="Linux" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">&nbsp;
-   <img align="center" alt="Windows" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">&nbsp;
+<h2 align="left" style="color:white;" >Sistema Operacionais</h2>
+<div align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=linux,windows,android&theme=dark" />
+  </a>
 </div>
   
   <!-- <div style="display: inline_block"><br>
