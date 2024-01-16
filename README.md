@@ -32,9 +32,10 @@
 </div>
 
 <h2 align="left" style="color:white;" >IDEs</h2>
-<div style="display: inline_block">
-  <img align="center" alt="vscode" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">&nbsp;
-  <img align="center" alt="android-studio" height="35" width="40" src="https://github.com/guireino/guireino/assets/11790204/5308b0b4-6332-4f10-8812-7d7b976d274b">
+<div align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio&theme=dark" />
+  </a>
 </div>
 
  <h2 align="left" style="color:white;" >Sistema Operacionais</h2>
