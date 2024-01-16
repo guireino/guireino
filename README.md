@@ -22,16 +22,13 @@
 
 <!-- #### Ferramentas -->
 
-<h2 align="left" style="color:white;" >Ferramentas</h2>
-<div style="display: inline_block">
-   <img align="center" alt="flutter" height="17" width="61" src="https://img.shields.io/badge/Flutter-02569B?style=for-thebadge&logo=flutter&logoColor=white">&nbsp;
-   <img align="center" alt="Unity-3d" height="21" width="61" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">&nbsp;
-   <img align="center" alt="Firebase" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">&nbsp;
-   <img align="center" alt="github" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-   <img align="center" alt="terminal-linux" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/2809/2809425.png">
-   <img align="center" alt="docker" height="35" width="40" src="https://github.com/guireino/guireino/assets/11790204/6327bb09-ddd7-4c8b-b88b-8d532e71765c" />
-   <img align="center" alt="kubernetes" height="35" width="40" style="background-color:red" src="https://github.com/guireino/guireino/assets/11790204/bfae83d1-7339-43db-a59e-45ec75083db7" />
+###
 
+<h2 align="left" style="color:white;" >Ferramentas</h2>
+<div align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=flutter,unity,firebase,github,git,docker,kubernetes&theme=dark" />
+  </a>
 </div>
 
 <h2 align="left" style="color:white;" >IDEs</h2>
