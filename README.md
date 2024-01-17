@@ -27,7 +27,7 @@
 <h2 align="left" style="color:white;" >Ferramentas</h2>
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=flutter,unity,firebase,github,git,docker,kubernetes&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,unity,firebase,github,git,bash,docker,kubernetes&theme=dark" />
   </a>
 </div>
 
